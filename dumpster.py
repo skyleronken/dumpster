@@ -5,10 +5,10 @@ import time
 import re
 from IPy import IP
 
-consumer_key = 'zxdkiAfazbs04hTEjxp7A'
-consumer_secret = 'DQD4124fRTB7aIUGxLpKN9Ll6jLlzgwzW6wK5uxlY'
-access_token = '89489538-wGPB0yIkxWIzqI38r3Zcqcwa6FqrQorM9UaqbohAQ'
-access_secret = 'ScyBuRrg7sRDYFj1RykWG5ZX141boYGXYqt0f0bNvZ4'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 
 def check_cisco_config(status):
